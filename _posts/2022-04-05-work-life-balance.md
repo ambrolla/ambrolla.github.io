@@ -10,10 +10,10 @@ My brother, he works at the fortune 100 company as a software developer. Lately,
 
 Why some companies have this work-life balance and some companies don't?
 
-I'm looking for a job, as I was saying in the previous post and my ideal job is somewhere where there would be work-life balance. But I know myself, if I want to learn something and want to succeed, I will take my time.
+I'm looking for a job, as I was saying in the previous post and my ideal job is somewhere where there would be work-life balance. But I know myself, if I want to learn something and want to succeed, I will take my time meaning that I will learn in my own free time.
 
 Hopefully there are more jobs in USA that have this work-life balance than those, which don't.
 
 Oh, and I know that I'm being slowly right now in uploading posts and fixing everything in a way I'd prefer, or in pushing everything to Github. Trying to maintain this work-life balance too. I spend about 1-2 hours a day just to look for a job (fill out applications and etc), then I have to answer emails from recruiters, which doesn't leave me with a lot of time to code (and I'm writing this blog post right now at 11pm).
 
-P.S. My goal is to add comments to this website sometime soon, so hopefully I'll be receiving some replies.
+P.S. My goal is to add comments to this website sometime soon, so hopefully I'll be receiving some replies later on.
