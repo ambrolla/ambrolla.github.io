@@ -3,11 +3,14 @@ author:
   name: Yuliya
   email: contact@ambrolla.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Hi. I'm a web developer and this is a website description. This website is under construction.
+  Hi. I'm a web developer. If you want to contact me, write me an email.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 google_analytics: G-EVSQ1S212J
+
+discqus:
+  shortname: https-ambrolla-io
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -51,6 +54,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
+# - resume.md
 
 plugins:
   - jekyll-feed
