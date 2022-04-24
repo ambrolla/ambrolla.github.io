@@ -9,7 +9,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 google_analytics: G-EVSQ1S212J
 
-discqus:
+disqus:
   shortname: https-ambrolla-io
 
 # Minima date format
