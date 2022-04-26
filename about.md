@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I will be adding (and probably revising) more things within April, 2022.
+I will be adding (and probably revising) more things within April-May of 2022.
 
 But a little bit about me:
 
-- I'm a web developer enthusiast.
-- I love coffee and cats (and dogs, but I only have a cat right now).
-- I love reading. If I have to wait for something or someone, I will never be bored because I will always have a book somewhere nearby.
+- I'm an extravert who loves meeting new people and making friends.
+- I'm a self learner in Web Development and the more I code, the more I love it.
+- I love coffee and cats. I have a lot of things with cats on it: front door rug, teapot, cat slippers, and an actual cat at home.
+- I love reading. If I have to wait for something or someone, I will never be bored because I will always have a book somewhere nearby. I can read almost anything. However, lately I'm reading fantasy novels. One of my favorite books is <i>Witcher</i>.
