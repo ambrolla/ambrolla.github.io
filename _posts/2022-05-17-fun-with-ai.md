@@ -5,13 +5,13 @@ title: "Fun with AI"
 categories: blog post
 ---
 
-I apply for different job positions (either Web Developer positions or Front-end Developer) every day. Lately, I thought that I also should have been applying for an internship position too! And I accidentally bumped into the Shopify application for a front-end intern.
-
-They are a very well known company and even if I wouldn't be considered (like I am in most cases), at least I've tried and even learned some new things while I was working on that application.
+I apply for different job positions (either Web Developer positions or Front-end Developer) every day. Lately, I thought that I also should have been applying for an internship position too! And I accidentally bumped into the application for a front-end intern for a well-known company.
 
 One of the [tasks](https://docs.google.com/document/d/1O7mCynsz_cBXkEaCFGSZAuvAOY84QVq35l20xJwjOYg/edit) was to write a program, like a chat-bot using API that a person could get for free (the website where you can get API is in google docs document). It was definitely a challenge for me.
 
 You can play with chat-bot, that I've created, [here](http://ambrolla.io/fun-with-AI/)
+
+You can see my code and Readme [here](https://github.com/Ambrolla/fun-with-AI)
 
 Some of my screeshots:
 
