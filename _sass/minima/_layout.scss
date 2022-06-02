@@ -122,8 +122,16 @@
  * Site footer
  */
 .site-footer {
+  background-color:rgb(232, 229, 221);
   border-top: 1px solid $border-color-01;
-  padding: $spacing-unit 0;
+  padding: $spacing-unit 500px 10px;
+  position: fixed;
+z-index: 1039 !important;
+bottom: 0;
+transform: translateY(100%);
+left: 0;
+transform: translateY(0);
+display: flex;
 }
 
 .footer-heading {
@@ -203,6 +211,8 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
+  overflow: auto;
+  margin-bottom: 200px
 }
 
 .page-heading {
