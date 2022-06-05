@@ -122,16 +122,20 @@
  * Site footer
  */
 .site-footer {
-  background-color:rgb(232, 229, 221);
   border-top: 1px solid $border-color-01;
   padding: $spacing-unit 0;
-//   position: fixed;
-// z-index: 1039 !important;
-// bottom: 0;
-// transform: translateY(100%);
-// left: 0;
-// transform: translateY(0);
-// display: flex;
+}
+
+.h-card{
+  position: fixed;
+  padding: 30px 0 130px;
+  bottom: 0;
+  width: 100%;
+  /* Height of the footer*/ 
+  height: 40px;
+  // background: rgb(247, 203, 203);
+  background-color: #eeeeee;
+  background-image: url("https://www.transparenttextures.com/patterns/subtlenet.png");
 }
 
 .footer-heading {
@@ -203,6 +207,17 @@
   }
 }
 
+@media screen and (min-width: 270px){
+  .h-card{
+    padding-bottom: 170px;
+  }
+}
+
+@media screen and (min-width: 600px){
+  .h-card{
+    padding-bottom: 130px;
+  }
+}
 
 
 /**
@@ -211,8 +226,8 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1 0 auto;
-  // overflow: auto;
-  // margin-bottom: 200px
+  overflow: auto;
+  margin-bottom: 200px
 }
 
 .page-heading {
