@@ -2,7 +2,8 @@
 layout: post
 comments: true
 title: "Interactive rating component challenge"
-categories: blog post
+tags:
+  - Tech Challenges
 ---
 
 My recent challenge that I've completed at [Frontend mentor](https://www.frontendmentor.io/).

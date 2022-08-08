@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Work Life Balance"
-categories: blog post
+tags:
+  - Blog post
 ---
 
 Ever since pandemic started, I always wondered, what would have happened if USA didn't have an average of 10-15 sick days + PTO? Could this huge number of people that are sick been prevented?

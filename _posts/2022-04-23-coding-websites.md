@@ -2,7 +2,8 @@
 layout: post
 comments: true
 title: "My Favorite Coding Websites"
-categories: blog post
+tags:
+  - Useful tech
 ---
 
 This post is mainly for me. I will be going back and clicking on the links that I've posted.

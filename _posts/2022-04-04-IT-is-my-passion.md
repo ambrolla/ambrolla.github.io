@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "IT is my passion"
-categories: about me
+tags:
+  - Bio
+  - Blog post
 ---
 
 Hello everyone!

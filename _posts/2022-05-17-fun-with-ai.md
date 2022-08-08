@@ -2,7 +2,8 @@
 layout: post
 comments: true
 title: "Fun with AI"
-categories: blog post
+tags:
+  - Tech Challenges
 ---
 
 I apply for different job positions (either Web Developer positions or Front-end Developer) every day. Lately, I thought that I also should have been applying for an internship position too! And I accidentally bumped into the application for a front-end intern for a well-known company.

@@ -118,8 +118,6 @@
   }
 }
 
-
-
 /**
  * Site footer
  */
@@ -128,12 +126,12 @@
   padding: $spacing-unit 0;
 }
 
-.h-card{
+.h-card {
   position: fixed;
   padding: 30px 0 130px;
   bottom: 0;
   width: 100%;
-  /* Height of the footer*/ 
+  /* Height of the footer*/
   height: 40px;
   // background: rgb(247, 203, 203);
   background-color: #eeeeee;
@@ -146,7 +144,7 @@
 }
 
 .feed-subscribe .svg-icon {
-  padding: 5px 5px 2px 0
+  padding: 5px 5px 2px 0;
 }
 
 .contact-list,
@@ -190,7 +188,7 @@
 
 @media screen and (min-width: $on-medium) {
   .footer-col-wrapper {
-    display: flex
+    display: flex;
   }
 
   .footer-col {
@@ -209,18 +207,17 @@
   }
 }
 
-@media screen and (min-width: 270px){
-  .h-card{
+@media screen and (min-width: 270px) {
+  .h-card {
     padding-bottom: 170px;
   }
 }
 
-@media screen and (min-width: 600px){
-  .h-card{
+@media screen and (min-width: 600px) {
+  .h-card {
     padding-bottom: 130px;
   }
 }
-
 
 /**
  * Page content
@@ -229,7 +226,7 @@
   padding: $spacing-unit 0;
   flex: 1 0 auto;
   overflow: auto;
-  margin-bottom: 200px
+  margin-bottom: 200px;
 }
 
 .page-heading {
@@ -259,8 +256,6 @@
   @include relative-font-size(1.5);
 }
 
-
-
 /**
  * Posts
  */
@@ -282,8 +277,16 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h1, h2, h3 { margin-top: $spacing-unit * 2 }
-  h4, h5, h6 { margin-top: $spacing-unit }
+  h1,
+  h2,
+  h3 {
+    margin-top: $spacing-unit * 2;
+  }
+  h4,
+  h5,
+  h6 {
+    margin-top: $spacing-unit;
+  }
 
   h2 {
     @include relative-font-size(1.75);
@@ -313,24 +316,25 @@
   }
 }
 
-
 .social-media-list {
   display: table;
   margin: 0 auto;
   li {
     float: left;
     margin: 5px 10px 5px 0;
-    &:last-of-type { margin-right: 0 }
+    &:last-of-type {
+      margin-right: 0;
+    }
     a {
       display: block;
       padding: $spacing-unit / 4;
       border: 1px solid $border-color-01;
-      &:hover { border-color: $border-color-02 }
+      &:hover {
+        border-color: $border-color-02;
+      }
     }
   }
 }
-
-
 
 /**
  * Pagination navbar
@@ -339,7 +343,8 @@
   margin-bottom: $spacing-unit;
   @extend .social-media-list;
   li {
-    a, div {
+    a,
+    div {
       min-width: 41px;
       text-align: center;
       box-sizing: border-box;
@@ -356,8 +361,6 @@
     }
   }
 }
-
-
 
 /**
  * Grid helpers

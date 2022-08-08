@@ -55,6 +55,7 @@ minima:
 #header_pages:
 # - about.md
 # - resume.md
+# - tags.md
 
 plugins:
   - jekyll-feed

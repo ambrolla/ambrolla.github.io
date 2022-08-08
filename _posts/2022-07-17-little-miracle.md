@@ -2,7 +2,8 @@
 layout: post
 comments: true
 title: "A little miracle"
-categories: blog post
+tags:
+  - Blog post
 ---
 
 Hello everyone!
