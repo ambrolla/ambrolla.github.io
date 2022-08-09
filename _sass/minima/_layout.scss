@@ -34,7 +34,7 @@
   position: absolute;
   top: 9px;
   right: $spacing-unit / 2;
-  background-color: $background-color;
+  background-color: #fdf8f8e4;
   border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
@@ -50,6 +50,7 @@
     line-height: 0;
     padding-top: 10px;
     text-align: center;
+    background-color: #edecece4;
 
     > svg path {
       fill: $border-color-03;
