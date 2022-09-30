@@ -15,4 +15,6 @@ My favorite tech stack so far is: Javascript, React, html + css.
 
 So, this post was written on June 16. I thought I found a job because I've received an offer letter. However, the offer letter never stated the start date because it said that basically I need to get an NIH badge and once I'll get it, I will start working. Basically, if someone is applying for an internship position, I guess in some cases you need to wait before starting a job.
 
-So, I'm editing a post right now, on July 17 and it's been a month since I've received an offer and still no start date. I've asked if there are any updates, there are still none. I hope I'll hear something soon!
+So, I'm editing a post right now, on September 30 and I can say that I've started working.
+
+Right now I'm working with: Python and Jupyter Notebooks. I'm also interested in working further with those technologies as well.
