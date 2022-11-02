@@ -3,7 +3,8 @@ layout: post
 comments: true
 title: "Apple or Windows?"
 categories: blog post
-tags: Useful tech
+tags:
+  - Useful tech
 ---
 
 Hello everyone!
