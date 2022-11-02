@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: "I found a job!"
 categories: blog post
+tags: blog post
 ---
 
 Hello everyone!
