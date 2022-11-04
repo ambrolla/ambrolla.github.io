@@ -19,4 +19,4 @@ When I was looking around what to buy, it turned out (in my case) that Windows l
 
 3. <b>More powerful device for the same amount of money.</b> For the price of a little upgraded MacBook Pro I bought a powerful gaming laptop.
 
-But I still have time to change my mind because if you buy some of the things from Amazon (and I did in my case) in October - November, there is time to return some of the things until January 31 or February 1. And most of the stores other than Apple have 30 days return policy, other than Apple, which is only 14 days.
+But I still have time to change my mind. If you buy some of the things from Amazon (and I did in my case) in October - November, there is time to return some of the things until January 31 or February 1. And most of the stores other than Apple have 30 days return policy, other than Apple, which is only 14 days.
