@@ -12,3 +12,7 @@ But a little bit about me:
 - I'm a self learner in Web Development and the more I code, the more I love it. Even if there is no activity in GitHub, it doesn't mean that I don't code.
 - I love coffee and cats. I have a lot of things with cats on it: front door rug, teapot, cat slippers, and an actual cat at home.
 - I love reading. If I have to wait for something or someone, I will never be bored because I will always have a book somewhere nearby. I can read almost anything. However, lately I'm reading fantasy novels. One of my favorite books is <i>Witcher</i>. My book of the month was <i>Cover Story</i>.
+
+You can see my resume here:
+
+<button class="button">[Click here]({{ "/assets/resume/Yuliya_Tkach_Full_Resume_website.pdf" | relative_url }})</button>
