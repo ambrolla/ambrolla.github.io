@@ -294,9 +294,11 @@ table {
 
 .button {
   background-color: #c9d6df;
-  padding: 8px 15px;
-  border-radius: 15%;
+  padding: 25px 25px;
+  border-radius: 50%;
   font-size: 16px;
+  border-color: #c9d6df;
+  border: solid 1px #c9d6df;
 }
 
 .github-button {
