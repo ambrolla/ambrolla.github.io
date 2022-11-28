@@ -19,3 +19,4 @@ So, my work time as an intern for this company [their website is here](qa.guru) 
 4. The methodology that the front end team used was Scrum Methodology and I got exposed to that too.
 
 I felt a little bit sad that my internship ended there, but it was a very interesting experience there.
+I worked there part time, but I still did some work as a freelancer.
