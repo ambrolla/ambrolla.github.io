@@ -9,7 +9,7 @@ tags:
 
 From September 12 to December 2 I've worked at Axle Informatics as a Data Science/ Computer Science trainee.
 Before internship I didn't know anything I've worked with and it was definitely a challenge for me.
-Over the course of 12 weeks I feel myself proud of my acheievements. I actually made a separate post for them because I did learn a lot while doing those two things.
+Over the course of 12 weeks I feel proud of my achievements. I actually made a separate post for them because I did learn a lot while doing those two things.
 
 1. I got to learn Python. A lot. And I underestimated Python before I got my hands on it, now I enjoy working with it.
 2. I got to learn new about new things that I didn't even know that they exist. For example, a [Neuroglancer](https://ambrolla.io/2022/10/31/neuroglancer.html) that I've worked with.
