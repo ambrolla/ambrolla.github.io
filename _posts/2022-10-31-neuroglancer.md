@@ -18,3 +18,7 @@ This [link](https://connectomics.readthedocs.io/en/latest/external/neuroglancer.
 Below is the image of my Navigation Panel (that I've made) with the output.
 
 ![Neuroglancer](/images/Neuroglancer.png)
+
+And this is the code that I wrote, to implement changes to the viewer. Also, I made it possible to use Neuroglancer methods to do changes in viewer state on Neuroglancer server side directly considering pretty limited Neuroglancer documentation.
+
+![Neuroglancer work](/images/Neuroglancer_work.png)
