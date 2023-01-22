@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Looking for work"
+title: "Looking For Work"
 categories: blog post
 tags:
   - blog post
