@@ -1,3 +1,12 @@
+---
+layout: post
+comments: true
+title: "Looking for work"
+categories: blog post
+tags:
+  - blog post
+---
+
 Hello everyone!
 
 December was overall busy. With fully starting a job search, doing test assignments for jobs so that I could get hired without any gaps in my employement (for example, one of the tasks I did that involved Python can be found [here](https://github.com/ambrolla/python) ), and Holidays, I forgot to write anything here. Finally everything is less crazy and I'm here with the update in my life.
