@@ -15,6 +15,6 @@ I'm back to the job search and I'm looking for a job very actively. I'm looking 
 
 Also, Lately, I've been working on supporting the Code and Coffee movement! NoVa Code and Coffee is working on their website, and I'm contributing by updating their website to the latest Jekyll version, fixing some CSS as well as adding and changing website content.
 
-In addition, I'm also working right now on my own project through frontendmentor.io building a tip calculator using Javascript, React.js, html, and CSS.
+In addition, I'm also working right now on my own project through frontendmentor.io using Javascript, React.js, html, and CSS.
 
 You can find my resume in the "About me" section on this website.
