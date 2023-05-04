@@ -15,4 +15,4 @@ But a little bit about me:
 
 You can see my resume here:
 
-<button class="button">[Click here]({{ "/assets/resume/Yuliya_Tkach_Resume_website.pdf" | relative_url }})</button>
+<button class="button">[Click here]({{ "/assets/resume/Yuliya_Tkach_Full_Resume_website.pdf" | relative_url }})</button>
