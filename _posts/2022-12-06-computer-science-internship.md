@@ -8,7 +8,8 @@ tags:
 ---
 
 From September 12 to December 5, 2022 I've worked at Axle Informatics as a Data Science/ Computer Science trainee.
-Before internship I didn't have any experience with anything I've worked with and it was definitely a challenge for me.
+Before internship I didn't have any professional experience with most of the things I've worked with and it was definitely a challenge for me.
+
 Over the course of 12 weeks I feel proud of my achievements. I actually made a separate post for them because I did learn a lot while doing those two things.
 
 1. I got to learn Python. A lot. And I've enjoyed working with it a lot over the past months.
