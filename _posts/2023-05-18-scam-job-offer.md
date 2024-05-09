@@ -10,13 +10,11 @@ tags:
 
 Hello everyone!
 
-I'm looking for a job. Basically those are my first words when I meet someone in the last few months.
-
 Last week, a person commented under my post on LinkedIn that he has a job opportunity for me and then wrote me a message on LinkedIn. Screenshot of that message is below.
 
 ![LinkedIn-Message](/images/linkedin-message.png)
 
-During our conversation, I found the job the person was referring to and asked him if that's the [job](https://www.linkedin.com/jobs/view/3601282464). The screenshot of that particular job is below. That person said yes. Last Friday (05/12), we've had a zoom video interview because I wasn't sure if that job was even real or not. But the person turned out to be real and in my opinion, the interview went very well.
+During our conversation, I found the job the person was referring to and asked him if that's the [job](https://www.linkedin.com/jobs/view/3601282464). The screenshot of that particular job is below. That person said yes. Last Friday (05/12/2024), we've had a zoom video interview because I wasn't sure if that job was even real or not. But the person turned out to be real and in my opinion, the interview went very well.
 
 ![LinkedIn-Job](/images/linkedin-job.png)
 

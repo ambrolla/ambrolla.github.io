@@ -6,7 +6,7 @@ tags:
   - Tech Challenges
 ---
 
-I apply for different job positions (either Web Developer positions or Front-end Developer) every day. Lately, I thought that I also should have been applying for an internship position too! And I accidentally bumped into the application for a front-end intern for a well-known company.
+This is the task I got when I applied for one of the positions. No one contacted me for an interview, but I've decided that I will still share my task.
 
 One of the [tasks](https://docs.google.com/document/d/1O7mCynsz_cBXkEaCFGSZAuvAOY84QVq35l20xJwjOYg/edit) was to write a program, like a chat-bot using API that a person could get for free (the website where you can get API is in google docs document). It was definitely a challenge for me.
 
