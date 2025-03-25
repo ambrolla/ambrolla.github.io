@@ -3,7 +3,7 @@ author:
   name: Yuliya
   email: contact@ambrolla.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Hi. I'm a web developer. If you want to contact me, send me an email.
+  Hi. If you want to contact me, send me an email.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
