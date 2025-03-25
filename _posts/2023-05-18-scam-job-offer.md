@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Job Offer Or Not"
+title: "Scam Job Offer"
 categories: blog post
 tags:
   - blog post
